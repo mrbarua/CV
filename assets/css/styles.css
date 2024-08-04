@@ -622,7 +622,7 @@ img {
 
   .resume__left{
   /*  background-color: var(--container-color-alt);*/
-  background-color:#244856;
+  background-color:#644E5A;
   }
 
   .alt_title {
@@ -723,17 +723,17 @@ img {
 
 /* unvisited link */
 a:link {
-  color: blue;
+  color: #0C18A3;
 }
 
 /* visited link */
 a:visited {
-  color:blue;
+  color:#0C18A3;
 }
 
 /* mouse over link */
 a:hover {
-  color: blue;
+  color: #0C18A3;
 }
 
 /* selected link */
