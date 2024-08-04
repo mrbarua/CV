@@ -720,5 +720,27 @@ img {
     column-gap: 3.5rem;
   }
 
+
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color:blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: blue;
+}
+
+/* selected link */
+a:active {
+  color: yellow;
+} 
+
+
 }
 
