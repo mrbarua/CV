@@ -350,6 +350,7 @@ img {
 .active-link{
   color: var(--title-color);
 }
+
 }
 /* HOME */
 .home{
@@ -620,7 +621,8 @@ img {
   }
 
   .resume__left{
-    background-color: var(--container-color-alt);
+  /*  background-color: var(--container-color-alt);*/
+  background-color:#244856;
   }
 
   .alt_title {
@@ -718,26 +720,5 @@ img {
     column-gap: 3.5rem;
   }
 
-
-/* Hover link CSS */
 }
 
-/* unvisited link */
-a:link {
-  color: green;
-}
-
-/* visited link */
-a:visited {
-  color:green;
-}
-
-/* mouse over link */
-a:hover {
-  color: green;
-}
-
-/* selected link */
-a:active {
-  color: yellow;
-} 
