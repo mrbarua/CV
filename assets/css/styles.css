@@ -301,7 +301,7 @@ img {
     box-shadow: 0 1px 4px rgba(0, 0, 0, .1);
     border-radius: 1rem 1rem 0 0;
     z-index: var(--z-fixed)
-    transition: 0.3s;
+    /*transition: 0.3s;*/
   }
 
 .nav_logo, .nav_toggle {
@@ -622,7 +622,7 @@ img {
 
   .resume__left{
   /*  background-color: var(--container-color-alt);*/
-  background-color:#644E5A;
+  background-color:#0b6272;
   }
 
   .alt_title {
@@ -721,19 +721,21 @@ img {
   }
 
 
+}
+
 /* unvisited link */
 a:link {
-  color: #0C18A3;
+  color:#0C18A3;
 }
 
 /* visited link */
 a:visited {
-  color:#0C18A3;
+  color:#0f1fc7;;
 }
 
 /* mouse over link */
 a:hover {
-  color: #0C18A3;
+  color: #252e8a;;
 }
 
 /* selected link */
@@ -741,6 +743,6 @@ a:active {
   color: yellow;
 } 
 
-
+.social_link {
+  color: #b9b3b6 !important;
 }
-
