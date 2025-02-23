@@ -749,24 +749,16 @@ a:active {
 
 /* New CSS**/
 
-
-@media screen and (min-width: 968px) {
   .alt_text {
-      color: #fbfbfb;
+      color: #fbfbfb !important;
   }
-}
-
-
 
 .social_link {
   color: #f7f5f6 !important;
 }
 
-
-@media screen and (min-width: 968px) {
   .education_studies {
-      font-size: var(--small-font-size);
-      color: #fff9f9;
+      color: #fff9f9 !important;
   }
 }
 
